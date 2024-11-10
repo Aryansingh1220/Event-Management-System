@@ -1,7 +1,7 @@
 var div = document.createElement('div');
 div.innerHTML = `<div>
 Copyright © 2024 Project Developed by 
-<a href="https://github.com/ayushchahal44" target="_blank">Ayush Chahal</a>
+<a href="https://github.com/aryansingh1220" target="_blank">Aryan Singh</a>
 </div>
 `;
 
